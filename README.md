@@ -1,7 +1,9 @@
-I conducted this experiment in mid 2022 to order to see if we could observe the results of Zipf's Law in a relatively small data sample. 
-I procured the data from my school as namelist hardcopies which were then scanned and converted to .txt files using certain applications.
+This project aims at determining if Zipf's Law is applicable for a (relatively small) set of names. 
 
-Due to the significant variation of the spellings of names, much correction had to be done by hand. It did not occur to me back then to use an Artificially Intelligent tool for this task. 
-I had to write two scripts to normalise the spellings of names and then one more to sort these games by gender semi automatically. I have not included these scripts in this repository. 
+Data was procured from my school's student namelists. Hardcopies were converted to .txt files using AI.
 
-The processed data was then plotted and results were consolidated in a .pdf file. 
+Data had to be processed due to the significant variation in the spellings of certain names that recurred. Names were also segregated on the basis of sex. At the time (2022) AI was not in heavy use and much of this work had to be done manually, assissted with python programs. These scripts have been excluded from this repository (I've lost them :D).
+
+The data was processed and plotted. 
+
+Results were inconclusive.
